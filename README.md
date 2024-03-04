@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently in college, majoring in computer science.
+- 🔭 I'm currently computer science student.
 - 🌱 I’m currently learning more back-end. I think that no matter how much I learn, it is not enough to say that I have reached a normal level.
 - ❤️‍🔥 I'm do my project with Laravel & tailwind css.
 - 🧾 my resume can be seen on (my github site)[https://am-mokhtari.github.io]
