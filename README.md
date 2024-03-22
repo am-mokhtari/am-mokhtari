@@ -8,7 +8,10 @@
   
 - ❤️‍🔥 I do my projects with Laravel & tailwind css.
   
-- 🧾 my resume can be seen on [my github site](https://am-mokhtari.github.io)
+- 🧾 my resume can be seen on [my github site](https://am-mokhtari.github.io):
+```
+      am-mokhtari.github.io
+```
   
 <!--
 **am-mokhtari/am-mokhtari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
